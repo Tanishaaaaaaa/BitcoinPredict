@@ -23,7 +23,7 @@ Welcome to the Cryptocurrency Price Predictor project! This repository showcases
 2. **Install Dependencies**:
    pip install -r requirements.txt
 3. **Run the Predictor**:
-   python predictor.py
+   python ARIMA.py
 
 ### Data Sources
 - **Historical Price Data**: Collected from reliable cryptocurrency exchanges and financial APIs.
