@@ -19,7 +19,7 @@ Welcome to the Cryptocurrency Price Predictor project! This repository showcases
 
 ### Getting Started
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/cryptocurrency-predictor.git
+   git clone https://github.com/Tanishaaaaaaa/BitcoinPredict.git
 2. **Install Dependencies**:
    pip install -r requirements.txt
 3. **Run the Predictor**:
